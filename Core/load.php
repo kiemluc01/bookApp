@@ -103,3 +103,9 @@ function LoadTirtle()
         return $_REQUEST['bookname'];
     return 'Đọc sách online';
 }
+function LoadTirtle2()
+{
+    if (isset($_REQUEST['bookname']))
+        return $_REQUEST['bookname'];
+    return 'Đọc sách online';
+}
