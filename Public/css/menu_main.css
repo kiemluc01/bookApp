@@ -1,7 +1,7 @@
 div#menu_main {
     display: flex;
     width: 100%;
-    background-color: #fff;
+    /* background-color: #fff; */
 }
 
 img.logo {
